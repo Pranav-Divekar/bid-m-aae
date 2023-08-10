@@ -1,0 +1,8 @@
+{
+  "name": "BidMAae",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "ec3ff015"
+}
